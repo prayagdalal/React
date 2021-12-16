@@ -1,0 +1,11 @@
+com\mycompany\mavenproject5\config\CrossOriginResourceSharingFilter.class
+com\mycompany\mavenproject5\config\Producers.class
+com\mycompany\mavenproject5\entity\Cabs.class
+com\mycompany\mavenproject5\entity\Cabs_.class
+com\mycompany\mavenproject5\entity\CabSize.class
+com\mycompany\mavenproject5\service\ExampleService.class
+com\mycompany\mavenproject5\entity\CabSize_.class
+com\mycompany\mavenproject5\servlet\cabServlet.class
+com\mycompany\mavenproject5\service\HealthCheckService.class
+com\mycompany\mavenproject5\config\BootStrap.class
+com\mycompany\mavenproject5\service\cabServe.class

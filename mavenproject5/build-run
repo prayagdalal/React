@@ -1,0 +1,3 @@
+#!/bin/sh
+mvn clean package && docker build -t abhijari/mavenproject5 .
+docker rm -f mavenproject5 2>/dev/null || true && docker run -it --name mavenproject5 -p 8080:8080 -p 4848:4848 -p 8181:8181 --name mavenproject5 abhijari/mavenproject5

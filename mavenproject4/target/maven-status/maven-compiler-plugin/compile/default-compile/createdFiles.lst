@@ -1,0 +1,10 @@
+com\mycompany\mavenproject4\config\BootStrap.class
+com\mycompany\mavenproject4\service\HealthCheckService.class
+com\mycompany\mavenproject4\entity\Cabs_.class
+com\mycompany\mavenproject4\config\CrossOriginResourceSharingFilter.class
+com\mycompany\mavenproject4\config\Producers.class
+com\mycompany\mavenproject4\model\cabService.class
+com\mycompany\mavenproject4\entity\CabSize_.class
+com\mycompany\mavenproject4\entity\Cabs.class
+com\mycompany\mavenproject4\service\ExampleService.class
+com\mycompany\mavenproject4\entity\CabSize.class
